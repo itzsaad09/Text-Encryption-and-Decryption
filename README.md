@@ -2,6 +2,9 @@
 
 This repository contains an 8086 assembly language program that implements the Caesar Cipher technique for encrypting and decrypting text.
 
+![Encryption](https://github.com/itzsaad09/Text-Encryption-and-Decryption/blob/d5711cbb8d3d14befe7eca627c5b1a563d316d43/Encryption.png)<br/><br/>
+![Decryption](https://github.com/itzsaad09/Text-Encryption-and-Decryption/blob/d5711cbb8d3d14befe7eca627c5b1a563d316d43/Decryption.png)<br/><br/>
+
 ## Features
 - **Encryption:** Encrypts a given string using a user-defined key.
 - **Decryption:** Decrypts an encrypted string back to its original form using the same key.
