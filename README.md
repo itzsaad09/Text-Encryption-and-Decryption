@@ -63,5 +63,16 @@ The Project.asm file is structured into the following main sections:
    - **DISPLAY_RESULT PROC:** Displays the final encrypted or decrypted string.
 
 ## Authors
-- Hafiz Muhammad Saad
-- @faiqariaz23
+👤 **Hafiz Muhammad Saad**
+
+* Github: [@itzsaad09](https://github.com/itzsaad09)
+* LinkedIn: [@itzsaad09](https://linkedin.com/in/itzsaad09)
+
+👤 **Faiqa Riaz**
+
+* Github: [@faiqariaz23](https://github.com/faiqariaz23)
+* LinkedIn: [@faiqa-riaz](https://www.linkedin.com/in/faiqa-riaz-9a9717300/)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
